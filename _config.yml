@@ -1,0 +1,28 @@
+name: Alison Adare
+favicon: null
+layout_spectrum: 0.28460533870384097
+typography_spectrum: 0.5252886596135795
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5904804652091116
+  lightness: 0.7930760541930795
+  saturation: 0.03436356713064015
+  rhythmicContrast: 0.1324563284870237
+purpose: []
